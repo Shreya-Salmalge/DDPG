@@ -13,7 +13,7 @@
 ## Results : 
 1. Pendulum-v1 (256x256 neurons)
 ![plot](./images/ddpg1.png)
-<br>
+
 2. Pendulum-v1 (512x512 neurons) 
 ![plot](./images/ddpg2.png
 
