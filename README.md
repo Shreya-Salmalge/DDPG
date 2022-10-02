@@ -15,7 +15,7 @@
 ![plot](./images/ddpg1.png)
 <br>
 2. Pendulum-v1 (512x512 neurons) 
-![plot](./images/ddpg2.png)
-<br>
-3. MountainCarContinuous-v0 
+![plot](./images/ddpg2.png
+
+3. MountainCarContinuous-v0
 ![plot](./images/ddpg3.png)
